@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brian Lin and I am a software developer for Differential!
+My name is Brian Lin and I am a software developer!
 
 Free to connect with me on [LinkedIn](https://www.linkedin.com/in/brian-lin-1590/) or email me at [linbrian.b@gmail.com](mailto:linbrian.b@gmail.com).
 
